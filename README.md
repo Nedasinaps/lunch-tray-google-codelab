@@ -26,3 +26,8 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+
+----------------------------------------------------------------
+I kept TODO marks in order to show where my code in this lab is
+----------------------------------------------------------------
